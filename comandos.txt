@@ -8,3 +8,5 @@ yarn add prisma -D
 npx prisma
 npx prisma init
 npx prisma migrate dev --name init
+yarn add bcrypt
+yarn add @types/bcrypt -D
